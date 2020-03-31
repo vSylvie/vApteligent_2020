@@ -1,0 +1,103 @@
+<resources>
+
+    <string name="app_name">vApteligent</string>
+
+
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+
+
+    <string name="clear">Clear</string>
+    <string name="other_username">Set Username:</string>
+    <string name="other_metadata">Set Game Level:</string>
+    <string name="other_breadcrumbs">Leave Breadcrumb:</string>
+
+    <string name="add">Add</string>
+    <string name="begin">begin</string>
+    <string name="end">end</string>
+    <string name="fail">fail</string>
+
+    <string name="incrementValue">value++</string>
+    <string name="optOutText">Opt Out</string>
+    <string name="optInText">Opt In</string>
+
+    <string name="breadcrumbHello">hello</string>
+    <string name="breadcrumbAbc">ABC</string>
+    <string name="breadcrumbXyz">XYZ</string>
+
+    <string name="gameLevel1">Level 1</string>
+    <string name="gameLevel5">Level 5</string>
+    <string name="gameLevel7">Level 7</string>
+
+    <string name="userNameTony">Tony</string>
+    <string name="userNameLea">Lea</string>
+    #<string name="userNameJoe">Joe</string>
+
+    <!--<string name="nullPointerException">Null Pointer Exception</string>-->
+    <string name="nullPointerException">Run over time</string>
+    <string name="indexOutOfBoundsException">Index out of bounds</string>
+    <string name="jsonException">JSON Exception</string>
+    <string name="illegalArgumentException">Illegal Argument Exception</string>
+    <string name="nativeCrash">Native Crash:</string>
+    <string name="recursiveNativeCrash">Recursive Native Crash</string>
+    <string name="strdupNativeCrash">Strdup Native Crash</string>
+    <string name="cppNativeCrash">CPP Native Crash</string>
+    <string name="customizeStackTrace">Customize the Stack Trace:</string>
+    <string name="handledExceptions">Handle Exception:</string>
+    <string name="forceCrash">Force Crash:</string>
+    <string name="chooseConnectionType">Choose Connection Type:</string>
+    <string name="okHttp">OkHttp3</string>
+    <string name="apacheHttpClient">Apache HttpClient</string>
+    <string name="httpUrlConnection">HttpURLConnection</string>
+    <string name="chooseProtocol">Choose Protocol:</string>
+    <string name="http">HTTP</string>
+    <string name="https">HTTPS</string>
+    <string name="punchIt">Punch It:</string>
+    <string name="get1Byte">GET 1b</string>
+    <string name="get1Kb">GET 1kb</string>
+    <string name="get1Mb">GET 1mb</string>
+    <string name="post1Byte">POST 1b</string>
+    <string name="post1Kb">POST 1KB</string>
+    <string name="post1Mb">POST 1MB</string>
+    <string name="latency1sec">Latency 1s</string>
+    <string name="latency3s">Latency 3s</string>
+    <string name="latency5s">Latency 5s</string>
+    <string name="status200">200 Status</string>
+    <string name="status404">404 Status</string>
+    <string name="status500">500 STATUS</string>
+    <string name="responses">Responses:</string>
+
+    <string name="app_id_title">AppID</string>
+    <string name="app_id_description">Workspace ONE Intelligence SDK AppID</string>
+    <string name="app_sandbox_title">Sandbox</string>
+    <string name="app_sandbox_description">Send Intelligence Data to Sandbox?</string>
+
+    <string name="tabCrash">CRASH</string>
+    <string name="tabNetwork">NETWORK</string>
+    <string name="tabFlows">FLOWS</string>
+    <string name="tabUsage">USER</string>
+
+    <string name="usage">Opinion Poll</string>
+    <string name="status">Status</string>
+
+    <string name="testdrive_idm_url" translatable="false">https://td-sylvie.vidmpreview.com/SAAS/admin</string>
+    <string name="cancel"> Cancel </string>
+
+    <string name="Email"> Email </string>
+    <string name="password"> Password </string>
+    <string name="login"> Login </string>
+    <string name="link_signup"> No account? Create one </string>
+
+    <string name="text_username"> This part will allow the user to search the crashes according to the username in Apteligent console. </string>
+    <string name="text_metadata"> This part will attach the username to a specific data. This information will be displayed on Apteligent console. </string>
+    <string name="text_status"> This part will allow the information to display in Apteligent console or not. </string>
+    <string name="text_poll"> This part will give the number of clicks for the following buttons.  </string>
+    <string name="text_flow"> The begin button will start the user flow. The end button will successfully finish the user flow. The fail button will fail the user flow. The value will increment the user flow. </string>
+    <string name="text_crash" > The following buttons will lead to the app crashes. The crashes will be displayed in the console.</string>
+
+    <string name="action_menu">  Advanced version </string>
+    <string name="action_return">  Back to App </string>
+
+    <string name="username"> Username  </string>
+
+</resources>
